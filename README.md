@@ -6,15 +6,15 @@ Simple script that finds the retroreflective target and exports data values of t
 
 Install numpy
 
-`pip install numpy`
+`pip3 install numpy`
 
 Install OpenCV for Python
 
-`pip install opencv-python`
+`pip3 install opencv-python`
 
 Ensure that you can export to a NetworkTable
 
-`pip install pynetworktables`
+`pip3 install pynetworktables`
 
 
 ## Deploying with FRC Code
